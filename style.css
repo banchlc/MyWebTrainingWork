@@ -31,45 +31,6 @@ body{
 	margin: 0 60px;
 }
 
-.box-back{
-	position: relative;
-	left: 650px;
-	top: 200px;
-}
-
-.box .icon{
-	width: 174px;
-	height: 155px;
-	display: block;
-	margin: 0 auto;
-	transition: all 0.4s;
-	-webkit-transition: all 0.4s;
-	-o-transition: all 0.4s;
-	-moz-transition: all 0.4s;
-}
-
-.box .icon:hover{
-	transform: scale(1.2) rotate(360deg);
-	-webkit-transform: scale(1.2) rotate(360deg);
-	-o-transform: scale(1.2) rotate(360deg);
-	-moz-transform: scale(1.2) rotate(360deg);
-}
-
-.box-mission .icon{
-	background: url(img/mission.svg) no-repeat center;
-	background-size: 155px 155px;
-}
-
-.box-play .icon{
-	background: url(img/play.svg) no-repeat center;
-	background-size: 155px 155px;
-}
-
-.box-touch .icon{
-	background: url(img/touch.svg) no-repeat center;
-	background-size: 155px 155px;
-}
-
 .box .button{
 	width: 156px;
 	height: 45px;
