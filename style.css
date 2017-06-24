@@ -18,9 +18,17 @@ body{
 	margin:50px auto;
 }
 
+.discribe{
+	font-size: 16px;
+	display: block;
+	margin-top: 20px;
+}
+
 .content{
+	border-left: 2px solid;
+	border-right: 2px solid;
 	width: 1000px;
-	height: 400px;
+	height: 425px;
 	margin: 50px auto;
 }
 
@@ -116,4 +124,14 @@ body{
 .box .button:hover .line-right{
 	height: 49px;
 	top: -2px;
+}
+
+.footer{
+	border-top: 2px solid;
+}
+.copyright{
+	width: 900px;
+	font-size: 14px;
+	display: block;
+	margin: 10px auto;
 }
